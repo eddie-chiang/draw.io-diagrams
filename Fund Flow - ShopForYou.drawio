@@ -1,26 +1,82 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.7">
   <diagram name="Page-1" id="nD7EDCK5-wloJMiYt2jO">
-    <mxGraphModel dx="873" dy="1143" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ggBJ_jUUwEE1ln2e8Tto-5" value="Contractor Accounts" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="152" y="80" width="412" height="308" as="geometry" />
+          <mxGeometry x="410" y="213" width="270" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ggBJ_jUUwEE1ln2e8Tto-1" target="ggBJ_jUUwEE1ln2e8Tto-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="487" y="212" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ggBJ_jUUwEE1ln2e8Tto-1" value="ShopForYou - Platform Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="181" y="-41" width="120" height="60" as="geometry" />
+          <mxGeometry x="417" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ggBJ_jUUwEE1ln2e8Tto-2" target="ggBJ_jUUwEE1ln2e8Tto-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ggBJ_jUUwEE1ln2e8Tto-2" value="Contractor 1 - Connected Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="179" y="115" width="120" height="60" as="geometry" />
+          <mxGeometry x="427" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ggBJ_jUUwEE1ln2e8Tto-3" target="ggBJ_jUUwEE1ln2e8Tto-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ggBJ_jUUwEE1ln2e8Tto-3" value="Contractor 3 - Connected Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207" y="313" width="120" height="60" as="geometry" />
+          <mxGeometry x="427" y="406" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ggBJ_jUUwEE1ln2e8Tto-4" target="ggBJ_jUUwEE1ln2e8Tto-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ggBJ_jUUwEE1ln2e8Tto-4" value="Contractor 2 - Connected Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="214" width="120" height="60" as="geometry" />
+          <mxGeometry x="427" y="318" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ggBJ_jUUwEE1ln2e8Tto-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ggBJ_jUUwEE1ln2e8Tto-5" target="ggBJ_jUUwEE1ln2e8Tto-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="752" y="235" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ggBJ_jUUwEE1ln2e8Tto-8" target="ggBJ_jUUwEE1ln2e8Tto-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-14" value="Purchase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ggBJ_jUUwEE1ln2e8Tto-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-8" value="" style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="631" y="240" width="37" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-21" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ggBJ_jUUwEE1ln2e8Tto-16" target="ggBJ_jUUwEE1ln2e8Tto-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-23" value="Purchase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ggBJ_jUUwEE1ln2e8Tto-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-16" value="" style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="631" y="328" width="37" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="752" y="323" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.shoppingCart;strokeColor=#999999;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="752" y="411" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ggBJ_jUUwEE1ln2e8Tto-20" target="ggBJ_jUUwEE1ln2e8Tto-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-24" value="Purchase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ggBJ_jUUwEE1ln2e8Tto-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggBJ_jUUwEE1ln2e8Tto-20" value="" style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="631" y="416" width="37" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
